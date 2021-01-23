@@ -1,5 +1,5 @@
 # Selenium-Testing
-Sample Code for Selenium testing
+Sample Code for Selenium testing of a virtual banking assistant
 
 ### SELENIUM is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
 
